@@ -1,4 +1,4 @@
-function Home() {
-  return <d1>Aqui o seu projeto é visto pelo mundo!</d1>;
+function greetings() {
+  console.log("Hello World");
 }
-export default Home;
+greetings();
